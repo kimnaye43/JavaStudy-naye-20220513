@@ -18,5 +18,3 @@ public class UserMain {
 		teacher.showInfo();
 
 	}
-
-}
